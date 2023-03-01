@@ -1,0 +1,8 @@
+venv
+creds.ini
+.idea/
+__pycache__/
+*.pyc
+/analyzer.log
+/result.json
+/tests/analyzer.log
